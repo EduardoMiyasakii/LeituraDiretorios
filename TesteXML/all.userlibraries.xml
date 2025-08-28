@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+<library name=".git" systemlibrary="false"/>
+<library name=".idea" systemlibrary="false"/>
+<library name="Pesquisa_e_inovação" systemlibrary="false"/>
+<library name="Semestre1" systemlibrary="false"/>
+<library name="Semestre2" systemlibrary="false">
+<archive path="C:\Users\duduk\OneDrive\Documentos\Sptech\Semestre2\SistemasOperacionais\Docker\demo\demo\target\demo-0.0.1-SNAPSHOT.jar"/>
+</library>
+<library name="Semestre3" systemlibrary="false">
+<archive path="C:\Users\duduk\OneDrive\Documentos\Sptech\Semestre3\Sptech_Modelagem_Processos\BotPress\modules\.cache\module__ec2efaf486760b54528d707985812644c2ba21b0d95983c65731efdddd5bd55a\node_production_modules\JSV\jsdoc-toolkit\java\classes\js.jar"/>
+<archive path="C:\Users\duduk\OneDrive\Documentos\Sptech\Semestre3\Sptech_Modelagem_Processos\BotPress\modules\.cache\module__ec2efaf486760b54528d707985812644c2ba21b0d95983c65731efdddd5bd55a\node_production_modules\JSV\jsdoc-toolkit\jsdebug.jar"/>
+<archive path="C:\Users\duduk\OneDrive\Documentos\Sptech\Semestre3\Sptech_Modelagem_Processos\BotPress\modules\.cache\module__ec2efaf486760b54528d707985812644c2ba21b0d95983c65731efdddd5bd55a\node_production_modules\JSV\jsdoc-toolkit\jsrun.jar"/>
+</library>
+<library name="Semestre4" systemlibrary="false"/>
+<library name="Socio" systemlibrary="false"/>
+</eclipse-userlibraries>
